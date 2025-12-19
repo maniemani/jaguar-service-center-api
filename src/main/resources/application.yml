@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: jaguar-service-center-api
+
+server:
+  port: 8080
